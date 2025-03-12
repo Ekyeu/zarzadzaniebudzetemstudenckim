@@ -41,3 +41,4 @@ Symulator Budżetu Studenckiego to aplikacja webowa stworzona w React, umożliwi
 Projekt stanowi solidną podstawę do dalszego rozwoju. Dzięki wykorzystaniu React, Context API oraz `localStorage`, aplikacja jest szybka i responsywna. W przyszłości można ją łatwo rozbudować o nowe funkcje, takie jak analiza wydatków, integracja z bankami czy aplikacja mobilna.
 
 ![logowanie](https://github.com/user-attachments/assets/e19385e4-ac08-47c4-a099-1601ae0113a0)
+![Transakcje](https://github.com/user-attachments/assets/d495fce9-bee8-4ed7-884d-44cd1d09a827)
